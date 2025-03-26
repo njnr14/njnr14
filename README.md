@@ -11,8 +11,8 @@
 </p>
 
 
+<img align="right" alt="Coding" width="400" height ="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsNjFlcGU1ajY1YjJjNWx2cTI3cTA5bDkzcmI0d2I5Y2szcGpldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XP8kV1sQnHF9AL30GE/giphy.gif">
 <h3>👨‍💻 About Me</h3>
-<img align="right" alt="Coding" width="400"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsNjFlcGU1ajY1YjJjNWx2cTI3cTA5bDkzcmI0d2I5Y2szcGpldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XP8kV1sQnHF9AL30GE/giphy.gif">
 
 - 🎓 **Final Year B.Tech Student @ IIIT Kota**
 - 💼 **Aspiring Software Engineer** 
