@@ -39,7 +39,7 @@
 
 <h3>🚀 My Projects</h3>
 
-🔹 **[QuickChat]([https://github.com/njnr14/Restaurant-Search](https://github.com/njnr14/QuickChat)) - (MERN, Socket.io)**  
+🔹 **[QuickChat]([https://github.com/njnr14/QuickChat]) - (MERN, Socket.io)**  
 A **Chatting Application** with **text/image messages** and **real-time Chatting feature**.
 
 🔹 **[BlogSpot](https://github.com/njnr14/BlogSpot) - (Node.js, EJS, MongoDB)**  
