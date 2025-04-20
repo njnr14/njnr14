@@ -39,14 +39,16 @@
 
 <h3>🚀 My Projects</h3>
 
+🔹 **[QuickChat]([https://github.com/njnr14/Restaurant-Search](https://github.com/njnr14/QuickChat)) - (MERN, Socket.io)**  
+A **Chatting Application** with **text/image messages** and **real-time Chatting feature**.
+
 🔹 **[BlogSpot](https://github.com/njnr14/BlogSpot) - (Node.js, EJS, MongoDB)**  
 A **full-stack blogging platform** with JWT authentication, interactive UI, and secure user data management.  
 
 🔹 **[PathViz](https://github.com/njnr14/PathViz) - (React, TypeScript, Tailwind CSS)**  
 An interactive **pathfinding algorithm visualizer**, comparing BFS, DFS, and Dijkstra’s algorithm in real time!  
 
-🔹 **[Restaurant Search](https://github.com/njnr14/Restaurant-Search) - (MERN, Google Generative AI)**  
-A **smart restaurant listing & search platform** with **image-based search** and **real-time location filtering**.  
+  
 
 ---
 
